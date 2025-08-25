@@ -1,0 +1,28 @@
+# Archivos de video - Ignorar en todas las carpetas y subcarpetas
+**/*.mp4
+**/*.mov
+**/*.avi
+**/*.mkv
+**/*.wmv
+**/*.flv
+**/*.webm
+**/*.m4v
+**/*.mpg
+**/*.mpeg
+**/*.3gp
+**/*.mts
+**/*.m2ts
+**/*.ts
+**/*.vob
+**/*.ogv
+**/*.divx
+
+# También puedes ignorar archivos relacionados comunes
+**/*.thumbs.db
+**/Thumbs.db
+
+# Directorios comunes de archivos de video (opcional)
+**/Videos/
+**/videos/
+**/Media/
+**/media/
