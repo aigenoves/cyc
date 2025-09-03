@@ -33,7 +33,7 @@ Colección o agrupación de objetos que es tratada como una unidad.
 
 * Diagrama de Venn
 * Enumeración
-  * $A=${$1,2,3,4,5$}
+  * $A=$ { $1,2,3,4,5$ }
 * Infinitos
   * $N=$ { $x / x$ _es un número natural_ }
   * $P=$ { $n / n$ _es par_ } = { $n / n = 2k$ con $k \in \mathbb{N}$ }
