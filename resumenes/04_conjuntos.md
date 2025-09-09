@@ -23,17 +23,17 @@ Colección o agrupación de objetos que es tratada como una unidad.
 #### Elementos de conjuntos
 
 * $\emptyset$: Sin elementos.
-* $A = $ {$\emptyset$}: Un elemento, el conjunto vacio.
-  * $A = $ {$\emptyset$}$ \neq \emptyset$
+* $A=$ { $\emptyset$ }: Un elemento, el conjunto vacio.
+  * $A=$ { $\emptyset$ } $\neq\emptyset$
 * Otros ejemplos:
-  * $A = $ {$1,${$3,-1$}$,\emptyset$}
-    * 3 elementos: $1, ${$3,-1$}$, \emptyset$
+  * $A=$ { $1,$ { $3,-1$} $,\emptyset$ }
+    * 3 elementos: $1,$ { $3,-1$ } $, \emptyset$
 
 #### Formas de expresión de conjuntos
 
 * Diagrama de Venn
 * Enumeración
-  * $A=${$1,2,3,4,5$}
+  * $A=$ { $1,2,3,4,5$ }
 * Infinitos
-  * $N=$ { $x / x $ _es un número natural_ }
-  * $P=$ {$n / n $ _es par_ } = { $n / n = 2k$ con $k \in \mathbb{N}$ }
+  * $N=$ { $x / x$ _es un número natural_ }
+  * $P=$ { $n / n$ _es par_ } = { $n / n = 2k$ con $k \in \mathbb{N}$ }
